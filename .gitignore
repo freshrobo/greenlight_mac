@@ -1,0 +1,12 @@
+*.pem
+*.key
+*.crt
+*.cer
+*.p12
+
+tls/
+certs/
+certificates/
+
+.env
+*.log
